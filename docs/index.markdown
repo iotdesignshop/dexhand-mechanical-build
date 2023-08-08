@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Home
+dexhand.org
 
 # Welcome to DexHand.org
 
@@ -16,6 +16,12 @@ The DexHand project is a low-cost, open source, dexterous hand designed for rese
 
 Our goal is for the DexHand to be the best open source hand project available, and a great dexterous hand for your robotic research and development activities.
 
+## Origins of the DexHand and This Project
+
+|[<img src="RobotStudio-Logo.png" width="300px">](http://www.therobotstudio.com)|The DexHand was envisioned and released to Open Source by [Rob Knight of The Robot Studio](https://www.therobotstudio.com). This remarkable work is one of many amazing projects Rob has created in over 20 years in robotics.|
+|[<img src="IOT_Logo.png" width="200px">](http://www.iotdesignshop.com)|This site and content is maintained by [Trent Shumay from IoT Design Shop](http://www.iotdesignshop.com). Trent has built and tuned a DexHand in the IoT Shop and made it a goal to document this process.|
+
+For contact info and additional detail, [visit the About page](https://www.dexhand.org/about/). For open source license information, [visit the License page](https://www.dexhand.org/license/)
 
 # Quick Links to Important Project Resources
 The following links provide easy access to important components of the DexHand project:

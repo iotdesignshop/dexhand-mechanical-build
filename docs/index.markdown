@@ -4,12 +4,18 @@
 
 layout: home
 ---
-Dexhand.org
+Home
 
 # Welcome to DexHand.org
+
+
+![Hand Tracker and Hand](https://github.com/iotdesignshop/dexhand-ble/assets/2821763/de311dc5-b41e-4f2f-b8e6-849a51983018)
+
+
 The DexHand project is a low-cost, open source, dexterous hand designed for research and development on humanoid robots. 
 
 Our goal is for the DexHand to be the best open source hand project available, and a great dexterous hand for your robotic research and development activities.
+
 
 # Quick Links to Important Project Resources
 The following links provide easy access to important components of the DexHand project:
@@ -17,4 +23,10 @@ The following links provide easy access to important components of the DexHand p
 - [**DexHand V1.0 GitHub Repository**](https://github.com/TheRobotStudio/V1.0-Dexhand) - Where it all began. The original repo from The Robot Studio with the original STL files, and links to the OnShape CAD models for the V1.0 DexHand. 
 - [**DexHand-BLE Repository**](https://github.com/iotdesignshop/dexhand-ble) - Firmware for the Arduino Nano RP2040 Connect and a Python Demo that uses Google MediaPipe Hand Tracker to analyze hand positions and play them back on a DexHand via Bluetooth LE. Runs on PC/Mac/Linux. 
 - [**DexHand-Mechanical-Build**](https://github.com/iotdesignshop/dexhand-mechanical-build) - Collection of materials, instructions, and a build Wiki from IoT Design Shop containing details of their V1.0 DexHand build and some mods for ease of assembly and durability.
+
+# Resources To Dig Deeper on the DexHand and Humanoid Robots
+
+## YouTube Channels
+- [**The Robot Studio YouTube Channel**](https://www.youtube.com/@therobotstudio) - Home of Rob Knight's Robot Studio on YouTube. Rob has been designing humanoid robots for over 20 years and shares his latest work on YouTube. Check out the DexHand and his HOPE Robot Project on the channel. 
+- [**IoT Design Shop YouTube Channel**](https://www.youtube.com/@iotdesignshop) - Home of the IoT Design Shop. Lots of progress videos on the build of the DexHand we did at the shop as well as the software and examples.
 

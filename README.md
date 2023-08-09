@@ -8,7 +8,7 @@ Our website contains additional materials, media and references for building the
 
 # Build Wiki
 
-<img src="https://github.com/iotdesignshop/dexhand-mechanical-build/assets/2821763/b83f8c8c-7883-4672-b442-f78a3463d9c1" width="400px"><img src="https://github.com/iotdesignshop/dexhand-mechanical-build/assets/2821763/13ecb084-0b08-4341-9b48-73fb496f4a08" width="400px">
+<img src="https://github.com/iotdesignshop/dexhand-mechanical-build/assets/2821763/b83f8c8c-7883-4672-b442-f78a3463d9c1" width="400px"><img src="https://github.com/iotdesignshop/dexhand-mechanical-build/assets/2821763/5d401f83-276c-46b1-a77a-34779eb15dda" width="400px">
 
 Most of the information for building a DexHand is contained on the project Wiki. Visit it here: (https://github.com/iotdesignshop/dexhand-mechanical-build/wiki)
 

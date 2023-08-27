@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BLE Firmware Released to GitHub"
+title:  "Electronics Build Instructions Released to Build Wiki"
 date:   2023-08-27 7:00:00 -0700
 categories: electronics build update
 ---

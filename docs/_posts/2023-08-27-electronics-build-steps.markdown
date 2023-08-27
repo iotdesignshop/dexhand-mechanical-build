@@ -5,7 +5,7 @@ date:   2023-08-27 7:00:00 -0700
 categories: electronics build update
 ---
 
-<img src="./electronics.jpg"/>
+<img src="https://user-images.githubusercontent.com/2821763/259296481-c1e74d79-2a47-4df9-bd03-86c806bfa4f2.jpeg"/>
           
 We've just released a BOM and How-To Guide for building up an Arduino-based controller board for the V1.0 DexHand. It is a compact design built with off-the-shelf prototyping parts from Adafruit and Arduino designed to fit into the forearm of the DexHand.
 

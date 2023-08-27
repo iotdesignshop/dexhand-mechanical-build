@@ -2,7 +2,7 @@
 layout: post
 title:  "BLE Firmware Released to GitHub"
 date:   2023-08-08 7:00:00 -0700
-categories: jekyll update
+categories: firmware update
 ---
 
 ![Hand Tracker and Hand](https://github.com/iotdesignshop/dexhand-ble/assets/2821763/de311dc5-b41e-4f2f-b8e6-849a51983018)

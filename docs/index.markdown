@@ -29,6 +29,7 @@ The following links provide easy access to important components of the DexHand p
 - [**DexHand V1.0 GitHub Repository**](https://github.com/TheRobotStudio/V1.0-Dexhand) - Where it all began. The original repo from The Robot Studio with the original STL files, and links to the OnShape CAD models for the V1.0 DexHand. 
 - [**DexHand-BLE Repository**](https://github.com/iotdesignshop/dexhand-ble) - Firmware for the Arduino Nano RP2040 Connect and a Python Demo that uses Google MediaPipe Hand Tracker to analyze hand positions and play them back on a DexHand via Bluetooth LE. Runs on PC/Mac/Linux. 
 - [**DexHand-Mechanical-Build**](https://github.com/iotdesignshop/dexhand-mechanical-build) - Collection of materials, instructions, and a build Wiki from IoT Design Shop containing details of their V1.0 DexHand build and some mods for ease of assembly and durability.
+- [**DexHand-ROS2-Meta**](https://github.com/iotdesignshop/dexhand_ros2_meta) - Home of the ROS 2 drivers and demonstration packages for the DexHand. We have a description package with URDF, a high-level gesture controller, and a new demonstration featuring ChatGPT using the DexHand as an output device. RVIZ2 simulations are available for testing the packages without a hardware hand.
 
 # Resources To Dig Deeper on the DexHand and Humanoid Robots
 

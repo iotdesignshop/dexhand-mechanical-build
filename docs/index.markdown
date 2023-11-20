@@ -23,6 +23,14 @@ Our goal is for the DexHand to be the best open source hand project available, a
 
 For contact info and additional detail, [visit the About page](https://www.dexhand.org/about/). For open source license information, [visit the License page](https://www.dexhand.org/license/)
 
+# FAQ's and Getting Started
+
+Our recent response to the project from Social Media and YouTube has been really great to see! We're in the process of trying to get the project updated with additional tutorials, build guides, and resources that our community is contributing back to the project from their builds and learning process. These resources will be added to the web page as they become available. In the short term, we've pulled together some points of interest and commentary on common questions that come up when people first encounter the project.
+
+- **Is there a complete build tutorial I can follow?** - Not yet, but we have a few people building hands and capturing their process in photos and videos along the way. The Quick Links section below contains our video playlist with build info, as well as the repositories and project assets. In the short term, referencing the OnShape CAD model in [The Robot Studio repository](https://github.com/TheRobotStudio/V1.0-Dexhand) is a great reference for a build along with the video files. 
+- **Why are there different versions of things in The Robot Studio Repos and the IoT Design Shop Repos??** - We're working to consolidate things. The Robot Studio repos contain the original version of the DexHand files, and still probably have the best mechanical reference to the build assembly via the provided OnShape CAD models and BOM information. The IoT Design Shop repos have the electronics, firmware, and ROS layers that were added to the project since the original inception. Additionally, there are some mechanical "Quality of Life" improvements in the IoT Design Shop mechanical build repo that may be useful. We're working to get this smoothed out a bit, but want to present as much info as possible.
+- **Which version of the electronics build and BOM should I follow?** - We'd recommend the IoT Design Shop version as there is a full package of Hardware (based on Arduino Nano RP2040 Connect), Firmware, Demos, and a ROS 2 layer that all work with this system. 
+
 # Quick Links to Important Project Resources
 The following links provide easy access to important components of the DexHand project:
 

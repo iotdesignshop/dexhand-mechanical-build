@@ -34,7 +34,7 @@ Our recent response to the project from Social Media and YouTube has been really
 # Quick Links to Important Project Resources
 The following links provide easy access to important components of the DexHand project:
 
-- [**DexHand Assembly Videos**](https://youtube.com/playlist?list=PLy7gxZH9jzfQB2YJvAl5Y0FLJvxzb_83F&si=M_RZ3M5oh02nZDvG) - This is Rob Knigth's series of assembly videos for the DexHand V1.
+- [**DexHand Assembly Videos**](https://youtube.com/playlist?list=PLy7gxZH9jzfQB2YJvAl5Y0FLJvxzb_83F&si=M_RZ3M5oh02nZDvG) - This is Rob Knight's series of assembly videos for the DexHand V1.
 - [**DexHand V1.0 GitHub Repository**](https://github.com/TheRobotStudio/V1.0-Dexhand) - Where it all began. The original repo from The Robot Studio with the original STL files, and links to the OnShape CAD models for the V1.0 DexHand. 
 - [**DexHand-BLE Repository**](https://github.com/iotdesignshop/dexhand-ble) - Firmware for the Arduino Nano RP2040 Connect and a Python Demo that uses Google MediaPipe Hand Tracker to analyze hand positions and play them back on a DexHand via Bluetooth LE. Runs on PC/Mac/Linux. 
 - [**DexHand-Mechanical-Build**](https://github.com/iotdesignshop/dexhand-mechanical-build) - Collection of materials, instructions, and a build Wiki from IoT Design Shop containing details of their V1.0 DexHand build and some mods for ease of assembly and durability.
